@@ -9,7 +9,7 @@ namespace TestMultipleInterfaces.Models
     {
         public string GetData()
         {
-            return "SQL Hello World";
+            return "SQL Hello World From this";
         }
     }
 }
